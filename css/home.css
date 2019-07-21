@@ -37,3 +37,23 @@
 .des h2{
   color: red;
 }
+
+.row{
+
+}
+
+.col1{
+  background: #983;
+  padding: 50px;
+  width:35%;
+  display: inline-block;
+  height: 600px;
+}
+
+.col2{
+  background: #229;
+  padding: 50px;
+  width:35%;
+  display: inline-block;
+  height: 400px;
+}
