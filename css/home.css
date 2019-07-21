@@ -47,13 +47,18 @@
   padding: 50px;
   width:35%;
   display: inline-block;
-  height: 600px;
+  height: 400px;
+  float:left;
 }
 
 .col2{
   background: #229;
   padding: 50px;
   width:35%;
-  display: inline-block;
   height: 400px;
+  float: left;
+}
+
+.footer{
+  margin-top: 500px;
 }
