@@ -1,0 +1,55 @@
+body{
+  margin:0;
+  padding: 0;
+}
+
+.head{
+  margin: 0;
+  padding: 0;
+  background: #977;
+  height: 20px;
+}
+
+.head h4{
+  font-size: 10px;
+  color: #844;
+  text-align: center;
+  padding: 4px;
+}
+
+.nav{
+  padding: 0;
+  margin: 0;
+  background: #333;
+  height: 40px;
+  display:grid;
+}
+
+.nav ul{
+  list-style: none;
+  padding-top: 0;
+
+}
+
+.nav ul li{
+  display: inline;
+  text-align: center;
+  color: white;
+  padding: 4%;
+}
+
+a{
+  color:white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.footer{
+  background-color: #999;
+  text-align: center;
+  height: 30px;
+}
+
+.footer h5{
+  padding: 8px;
+}
