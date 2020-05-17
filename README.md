@@ -2,4 +2,4 @@
 This is the website tell about the srilanka tourism
 
 #click this link to preview 
- http://pankajan.me/Srilanka-Tourism/
+https://pankajan05.github.io/Srilanka-Tourism/
